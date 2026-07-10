@@ -96,7 +96,7 @@ Write-Host "  ==================================================" -ForegroundCol
 Start-Sleep -Seconds 1
 
 Write-Host "`n  Found any bugs? Help improve the tool:" -ForegroundColor Gray
-Write-Host "  https://github.com/luizbizzio/anydesk-id-reset" -ForegroundColor Blue
+Write-Host "  https://github.com/rinkhalscobra/anydesk-id-reset" -ForegroundColor Blue
 
 Start-Sleep -Seconds 1
 Write-Host "`n  Starting AnyDesk..." -ForegroundColor Gray
